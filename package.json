@@ -1,6 +1,6 @@
 {
   "name": "tstags",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ctags-like generator for TypeScript",
   "bin": {
     "tstags": "./bin/tstags.js"
@@ -11,7 +11,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Perlence/tstags.git"
+    "url": "git@github.com:Noneangel/tstags.git"
   },
   "keywords": [
     "typescript",
